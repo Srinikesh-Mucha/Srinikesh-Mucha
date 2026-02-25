@@ -72,3 +72,8 @@ I enjoy working across the full lifecycle — from raw data to deployed AI syste
 - Docker  
 - Git  
 - GitHub  
+
+## 📫 Let's Connect
+
+- LinkedIn: https://www.linkedin.com/in/srinikesh-mucha/
+- Email: nikeshrao1318@gmail.com
