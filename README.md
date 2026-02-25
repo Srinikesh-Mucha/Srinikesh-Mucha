@@ -1,16 +1,74 @@
-## Hi there 👋
+# Hi, I'm Srinikesh Mucha 👋
 
-<!--
-**Srinikesh-Mucha/Srinikesh-Mucha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MS in Data Science | University of North Texas (Expected May 2026)  
+🔍 Actively seeking Data Analyst / Data Scientist Internships & Full-Time Roles  
+🤖 Interested in ML Systems, Generative AI, and End-to-End Analytics  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+I am a Data Science graduate student at UNT with hands-on experience building end-to-end analytics pipelines, machine learning systems, and applied AI solutions. 
+
+My work spans:
+- Business Analytics & KPI-driven dashboards
+- Predictive Machine Learning models
+- Deep Learning & Computer Vision
+- Generative AI systems (LLMs, RAG, Prompt Engineering, LoRA)
+
+I enjoy working across the full lifecycle — from raw data to deployed AI systems.
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming & Data
+- Python  
+- SQL  
+- PostgreSQL  
+- R  
+
+### 📊 Data Analytics
+- Exploratory Data Analysis (EDA)  
+- Data Cleaning & Feature Engineering  
+- KPI Development  
+- Statistical Analysis  
+- Business Analytics  
+- Data Storytelling  
+
+### 🤖 Machine Learning
+- Supervised & Unsupervised Learning  
+- Random Forest  
+- KNN  
+- XGBoost  
+- Model Evaluation & Cross Validation  
+- Hyperparameter Tuning  
+
+### 🧠 Deep Learning
+- Neural Networks  
+- Vision Transformers (ViT)  
+- GPT-2  
+- TensorFlow  
+- Computer Vision  
+- NLP  
+
+### ✨ Generative AI
+- Large Language Models (LLMs)  
+- Retrieval-Augmented Generation (RAG)  
+- Prompt Engineering  
+- LoRA (PEFT Fine-Tuning)  
+- FAISS Vector Search  
+- Hugging Face Transformers  
+
+### 📈 Visualization & BI
+- Tableau  
+- Power BI  
+- Plotly  
+- Dashboard Design  
+
+### 🚀 Deployment & Tools
+- Flask  
+- Streamlit  
+- Docker  
+- Git  
+- GitHub  
