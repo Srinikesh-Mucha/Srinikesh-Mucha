@@ -1,6 +1,6 @@
 # Hi, I'm Srinikesh Mucha 👋
 
-🎓 MS in Data Science | University of North Texas (Expected May 2026)  
+🎓 MS in Data Science | University of North Texas (May 2026)  
 🔍 Actively seeking AI Engineer, Data Scientist/Analyst Internships & Full-Time Roles  
 
 ---
